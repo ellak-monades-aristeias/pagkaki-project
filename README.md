@@ -12,3 +12,27 @@ To παγκάκι μπορεί να κατασκευαστεί με δύο τρ�
 
 Ο συμβολισμός "Athens" που φέρει το παγκάκι στην πρόσοψή του γίνεται διάτρητα στο φύλλο λαμαρίνας με τη χρήση παντογράφου. Ο συμβολισμός μπορεί να αλλάζει ανάλογα με την περιοχή τοποθέτησης του παγκακιού, όπως π.χ. στο Ηράκλειο ο συμβολισμός Θα είναι "Heraklion", ενώ στη Θεσσαλονίκη θα είναι "Thessaloniki". 
 
+***
+### ΠΙΝΑΚΑΣ ΠΑΡΑΔΟΤΕΩΝ
+
+**ΣΧΕΔΙΑ DXF**
+* "ΚΑΤΟΨΗ ΠΑΓΚΑΚΙ ΦΩΤΙΣΤΙΚΟ" - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΚΑΤΟΨΗ_ΠΑΓΚΑΚΙ_ΦΩΤΙΣΤΙΚΟ.dxf
+* "ΠΡΟΣΟΨΗ ΠΑΓΚΑΚΙ ΦΩΤΙΣΤΙΚΟ" - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΠΡΟΣΟΨΗ%20ΠΑΓΚΑΚΙ_ΦΩΤΙΣΤΙΚΟ.dxf
+* "ΤΟΜΗ Α-Α ΠΑΓΚΑΚΙ ΦΩΤΙΣΤΙΚΟ" - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/TOMH_A-A_ΠΑΓΚΑΚΙ_ΦΩΤΙΣΤΙΚΟ.dxf
+* "ΚΑΤΑΣΚΕΥΑΣΤΙΚΟ ΑΞΟΝΟΜΕΤΡΙΚΟ ΠΑΓΚΑΚΙ ΦΩΤΙΣΤΙΚΟ" -  https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΚΑΤΑΣΚΕΥΑΣΤΙΚΟ_ΑΞΟΝΟΜΕΤΡΙΚΟ_ΠΑΓΚΑΚΙ_ΦΩΤΙΣΤΙΚΟ.dxf
+
+**ΣΧΕΔΙΑ PDF**
+* "ΠΑΓΚΑΚΙ ΦΩΤΙΣΤΙΚΟ 1" (ΠΙΝΑΚΙΔΑ ΠΑΡΟΥΣΙΑΣΗΣ) - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΠΑΓΚΑΚΙ_ΦΩΤΙΣΤΙΚΟ_1.pdf
+* "ΠΙΝΑΚΙΔΑ ΠΑΡΟΥΣΙΑΣΗΣ Α3" - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΠΙΝΑΚΙΔΑ_ΠΑΡΟΥΣΙΑΣΗΣ_Α3.pdf
+* "ΚΑΤΑΣΚΕΥΑΣΤΙΚΟ ΠΑΓΚΑΚΙ" (ΚΑΤΑΣΚΕΥΑΣΤΙΚΟ-ΑΞΟΝΟΜΕΤΡΙΚΟ) - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΚΑΤΑΣΚΕΥΑΣΤΙΚΟ_ΠΑΓΚΑΚΙ.pdf
+* "ΛΟΓΟΤΥΠΟ" (ΔΙΑΤΡΗΤΟ ΛΟΓΟΤΥΠΟ) - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΛΟΓΟΤΥΠΟ.pdf
+
+**ΚΕΙΜΕΝΑ PDF**
+* "ΤΑΥΤΟΤΗΤΑ ΕΡΓΟΥ" - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/Ταυτότητα%20Έργου..pdf
+* "ΠΡΟΣΦΟΡΑ ΠΑΓΚΑΚΙ ΣΙΔΗΡΟΥ" - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΠΡΟΣΦΟΡΑ%20-ΠΑΓΚΑΚΙ%20ΣΙΔΗΡΟΥ.pdf
+
+**ΕΙΚΟΝΕΣ JPG**
+* "ΠΑΓΚΑΚΙ" (ΣΚΙΤΣΟ) - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΠΑΓΚΑΚΙ.jpg
+* "ΠΑΓΚΑΚΙ ΦΩΤΙΣΤΙΚΟ 1 (1)" (3D) - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΠΑΓΚΑΚΙ_ΦΩΤΙΣΤΙΚΟ_1(1).jpg
+* "ΠΑΓΚΑΚΙ ΦΩΤΙΣΤΙΚΟ 1 (2)" (3D) - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΠΑΓΚΑΚΙ_ΦΩΤΙΣΤΙΚΟ_1(2).jpg
+* "ΠΑΓΚΑΚΙ ΦΩΤΙΣΤΙΚΟ 1 (3)" (3D) - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΠΑΓΚΑΚΙ_ΦΩΤΙΣΤΙΚΟ_1(3).jpg
