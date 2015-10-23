@@ -42,3 +42,8 @@ To παγκάκι μπορεί να κατασκευαστεί με δύο τρ�
 * "ΠΑΓΚΑΚΙ ΦΩΤΙΣΤΙΚΟ 1 (1)" (3D) - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΠΑΓΚΑΚΙ_ΦΩΤΙΣΤΙΚΟ_1(1).jpg
 * "ΠΑΓΚΑΚΙ ΦΩΤΙΣΤΙΚΟ 1 (2)" (3D) - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΠΑΓΚΑΚΙ_ΦΩΤΙΣΤΙΚΟ_1(2).jpg
 * "ΠΑΓΚΑΚΙ ΦΩΤΙΣΤΙΚΟ 1 (3)" (3D) - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/ΠΑΓΚΑΚΙ_ΦΩΤΙΣΤΙΚΟ_1(3).jpg
+
+**ΑΡΧΕΙΑ md**
+* "README"  - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/README.md
+* "Licence" - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/Licence.md
+* "Ταυτότητα έργου" - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/Ταυτότητα%20Έργου.md
