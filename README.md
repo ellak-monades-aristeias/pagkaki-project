@@ -45,5 +45,6 @@ To παγκάκι μπορεί να κατασκευαστεί με δύο τρ�
 
 **ΑΡΧΕΙΑ md**
 * "README"  - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/README.md
+* "readme in english"- https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/Readme%20in%20english.md
 * "Licence" - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/Licence.md
 * "Ταυτότητα έργου" - https://github.com/ellak-monades-aristeias/pagkaki-project/blob/master/Ταυτότητα%20Έργου.md
