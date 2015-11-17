@@ -1,3 +1,5 @@
+**Bench project**
+
 My design is about a bench, which purpose is to improve the image of the city through an 
 attitude of rest. This object is achieved by creating a simple organic form, which fits 
 flexibly into any type of structured environment, with both innovative and understudable form.
